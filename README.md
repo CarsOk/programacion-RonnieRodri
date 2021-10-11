@@ -1,4 +1,4 @@
-# Programación
+Programación
 
 ## Septiembre 2021
 
