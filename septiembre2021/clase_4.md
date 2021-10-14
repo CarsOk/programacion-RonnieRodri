@@ -51,4 +51,4 @@ Function misnotas(a, b, c, d, e)
 End Function
 ```
 **FOTO DE EXECEL**<br>
-<img src="img/Cap8.png" width="300">
+<img src="img/Cap11.png" width="500">

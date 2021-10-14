@@ -23,11 +23,11 @@ Crear programa que calcule 20 números en dos columnas de una hoja de excel y de
 
 ```
 Sub sumas()
-    For i = 2 To 21
+    For lampara = 2 To 21
     
-    Hoja1.Cells(i, 3) = Hoja1.Cells(i, 1) + Hoja1.Cells(i, 2)
+    Hoja1.Cells(lampara, 3) = Hoja1.Cells(lampara, 1) + Hoja1.Cells(lampara, 2)
     
-    Next i
+    Next lampara
 
 End Sub
 ```
